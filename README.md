@@ -17,8 +17,10 @@ A simple and intuitive Android application for converting between various units 
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_20260324_184410.png" width="250"/> 
-<img src="screenshots/Screenshot_20260324_184433.png" width="250"/>
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/converter.png" width="250"/>
+</p>
 
 ## Getting Started
 
