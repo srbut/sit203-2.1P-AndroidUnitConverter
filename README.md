@@ -1,6 +1,6 @@
 # UnitConverter
 
-A simple and intuitive Android application for converting between various units of measurement, including Currency, Fuel, and Temperature.
+This implementation is for SIT305 T1 2025 Task 2.1P. It is a simple and intuitive Android application for converting between various units of measurement, including Currency, Fuel, and Temperature.
 
 ## Features
 
@@ -19,6 +19,7 @@ A simple and intuitive Android application for converting between various units 
 
 <p align="center">
   <img src="screenshots/Screenshot_20260324_184410.png" width="250"/>
+  <img src="https://via.placeholder.com/40x1"/>
   <img src="screenshots/Screenshot_20260324_184433.png" width="250"/>
 </p>
 
