@@ -17,7 +17,8 @@ A simple and intuitive Android application for converting between various units 
 
 ## Screenshots
 
-![Unit Converter](screenshots/Screenshot_20260324_184433.png)
+<img src="screenshots/Screenshot_20260324_184410.png" width="250"/> 
+<img src="screenshots/Screenshot_20260324_184433.png" width="250"/>
 
 ## Getting Started
 
